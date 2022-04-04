@@ -7,3 +7,7 @@ Dont know if later releases will still be compatible, therefore the ones I used 
 If Parts are not in a folder or subfolder of a directory that includes an Annex-License, the GPL3 License applies. 
 
 Hotend used: SliceEngineering Mosquito / Mellow Crazy
+
+![front.png](./img/front.png)
+
+![side.png](./img/side.png)
