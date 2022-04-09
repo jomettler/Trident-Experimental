@@ -4,7 +4,7 @@ This Mod allows you to use MGN12 for all linear rails and reduce the effective b
 This mod is currently NOT compatible with a Stock MGN9 Trident, since the belt-path is different and the mirrored XY Joints are build for the MGN12 Mount.
 This mod does not support cable chains in X and Y in order to reduce moving mass.
 
-Most Parts of the Trident remain unchanged. Only the Panel-Clips for the left and right Panels, Z-Carriage mounts and the XY-Joints need to be adjusted. The mounts for the AB-Drives in front replace the tensioners.
+Most Parts of the Trident remain unchanged. Only the Panel-Clips for the left and right Panels, Z-Carriage mounts, AB DriveMounts in the back and the XY-Joints need to be adjusted. The mounts for the AB-Drives in front replace the tensioners.
 
 ## BOM
 
