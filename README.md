@@ -1,7 +1,7 @@
 # Trident-Experimental
 
 
-Repository for Mods by me for the Voron Trident 3D Printer
+Repository for Mods by me for the [Voron Trident](https://github.com/VoronDesign/Voron-Trident) 3D Printer
 
 This is a developement repository. Assume that all uploads are untested. There is absolutely no warranty on anything.
 
