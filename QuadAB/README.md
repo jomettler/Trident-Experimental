@@ -12,4 +12,8 @@ Most Parts of the Trident remain unchanged. Only the Panel-Clips for the left an
 ## Pictures
 ![render_front.png](./Image/render_front.png)
 
+# NOTE
+Klipper currently (23.04.2022, master) does not support multiple AB Drives for CoreXY. Follow the [VZBot-Vz235 Manual](https://github.com/VzBoT3D/VzBoT-Vz235) to set up the machine. 
+
 ## Credits
+[TypQxQ](https://github.com/TypQxQ/klipper/tree/Multiple_Steppers_on_CoreXY) for the Klipper adaptations
