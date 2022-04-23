@@ -13,3 +13,6 @@ Hotend used: SliceEngineering Mosquito / Mellow Crazy
 ![front.png](./img/front.png)
 
 ![side.png](./img/side.png)
+
+#Credits
+MGN9 Mount is a Mod of the [Micron](https://github.com/PrintersForAnts/Micron) Mount for the miniAB
