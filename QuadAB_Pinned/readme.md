@@ -24,3 +24,10 @@ Using lightweight X-Axis recommended.
 If aligned correctly, all parts can be printed without supports. STLs are NOT prealigned.
 
 Screws, Bearings etc. are not correctly set in the CAD. Make sure to use bearing stacks whenever the smooth side of the Belt is routed and toothed idlers whenever the toothed side of the belt is routed. Else you will experience periodic artifacts from the belt teeth. 
+
+
+
+## Credits
+@VoronDesign for Trident
+@VzBoT for AWD inspiration
+@eriroh you know.
