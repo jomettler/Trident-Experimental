@@ -1,7 +1,7 @@
 # Full MGN12H QuadAB Mod for the Voron Trident
-<img src="/pictures/Gantry_render.png">
+![Gantry_render.png](./pictures/Gantry_render.png)
 
-<img src="/pictures/build.jpg">
+![build.jpg](./pictures/build.jpg)
 
 
 Tested on Voron Trident 250 with a 235mm Bed (XY: 300mm MGN12H)
